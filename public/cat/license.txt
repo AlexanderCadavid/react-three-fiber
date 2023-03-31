@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cat figure
+* source:	https://sketchfab.com/3d-models/cat-figure-d04d8ac2c1ba47ee9e03351b4f08dd4b
+* author:	zasedvs (https://sketchfab.com/zasedvs)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cat figure" (https://sketchfab.com/3d-models/cat-figure-d04d8ac2c1ba47ee9e03351b4f08dd4b) by zasedvs (https://sketchfab.com/zasedvs) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
